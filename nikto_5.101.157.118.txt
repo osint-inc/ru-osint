@@ -1,0 +1,166 @@
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ /%2e/: Weblogic allows source code or directory listing, upgrade to v6.0 SP1 or higher. http://www.securityfocus.com/bid/2513. See: http://www.securityfocus.com/bid/2513
++ /phpinfo.php?VARIABLE=<script>alert('Vulnerable')</script>: Retrieved x-powered-by header: PHP/5.6.40.
++ /admin.php?en_log_id=0&action=config: EasyNews version 4.3 allows remote admin access. This PHP file should be protected. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2006-5412
++ /admin.php?en_log_id=0&action=users: EasyNews version 4.3 allows remote admin access. This PHP file should be protected. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2006-5412
++ /level/16/exec/-///pwd: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/16/exec/-///show/configuration: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/16: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/16/exec/: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/16/exec//show/access-lists: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/16/level/16/exec//show/configuration: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/16/level/16/exec//show/interfaces: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/16/level/16/exec//show/interfaces/status: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/16/level/16/exec//show/version: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/16/level/16/exec//show/running-config/interface/FastEthernet: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/16/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/17/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/18/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/19/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/20/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/21/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/22/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/23/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/24/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/25/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/26/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/27/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/28/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/29/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/30/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/31/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/32/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/33/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/34/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/35/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/36/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/37/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/38/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/39/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/40/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/41/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/42/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/43/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/44/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/45/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/46/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/47/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/48/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/49/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/50/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/51/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/52/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/53/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/54/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/55/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/56/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/57/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/58/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/59/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/60/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/61/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/62/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/63/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/64/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/65/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/66/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/67/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/68/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/69/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/70/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/71/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/72/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/73/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/74/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/75/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/76/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/77/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/78/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/79/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/80/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/81/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/82/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/83/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/84/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/85/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/86/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/87/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/88/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/89/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/90/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/91/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/92/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/93/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/94/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/95/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/96/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/97/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/98/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /level/99/exec//show: CISCO HTTP service allows remote execution of commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0537
++ /users.lst: LocalWEB2000 users.lst passwords found. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-1353
++ /nsn/env.bas: Novell web server shows the server environment and is vulnerable to cross-site scripting. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2004-2104
++ /lcgi/lcgitest.nlm: Novell web server shows the server environment. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2004-2104
++ /com/: Novell web server allows directory listing. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2004-2106
++ /com/novell/: Novell web server allows directory listing. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2004-2106
++ /com/novell/webaccess: Novell web server allows directory listing. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2004-2106
++ //admin/admin.shtml: Axis network camera may allow admin bypass by using double-slashes before URLs. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-0240
++ /server-status: This reveals Apache information. Comment out appropriate line in the Apache conf file or restrict access to allowed sources. See: OSVDB-561
++ /publisher/: Netscape Enterprise Server with Web Publishing can allow attackers to edit web pages and/or list arbitrary directories via Java applet. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2000-0237
++ /cgi-bin/pfdisplay.cgi?../../../../../../etc/passwd: Comes with IRIX 6.2-6.4; allows to run arbitrary commands. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0270
++ /iissamples/exair/search/search.asp: Scripts within the Exair package on IIS 4 can be used for a DoS against the server. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0449
++ /shopping/diag_dbtest.asp: VP-ASP Shopping Cart 5.0 contains multiple SQL injection vulnerabilities. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-0560
++ /wwwboard/passwd.txt: The wwwboard password file is browsable. Change wwwboard to store this file elsewhere, or upgrade to the latest version. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0930
++ /msadc/msadcs.dll: . See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-1011 BID-529 https://docs.microsoft.com/en-us/security-updates/securitybulletins/2098/MS98-004 https://docs.microsoft.com/en-us/security-updates/securitybulletins/2099/MS99-025 http://attrition.org/security/advisory/individual/rfp/rfp.9902.rds_iis
++ /iisadmpwd/aexp2.htr: Gives domain and system name, may allow an attacker to brute force for access. Also will allow an NT4 user to change his password regardless of the 'user cannot change password' security policy. http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0407. http://www.securityfocus.com/bid/4236. http://www.securityfocus.com/bid/2110. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0407
++ /iisadmpwd/aexp2b.htr: Gives domain and system name, may allow an attacker to brute force for access. Also will allow an NT4 user to change his password regardless of the 'user cannot change password' security policy. http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0407. http://www.securityfocus.com/bid/4236. http://www.securityfocus.com/bid/2110. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0407
++ /iisadmpwd/aexp3.htr: Gives domain and system name, may allow an attacker to brute force for access. Also will allow an NT4 user to change his password regardless of the 'user cannot change password' security policy. http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0407. http://www.securityfocus.com/bid/4236. http://www.securityfocus.com/bid/2110. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0407
++ /iisadmpwd/aexp4.htr: Gives domain and system name, may allow an attacker to brute force for access. Also will allow an NT4 user to change his password regardless of the 'user cannot change password' security policy. http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0407. http://www.securityfocus.com/bid/4236. http://www.securityfocus.com/bid/2110. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0407
++ /iisadmpwd/aexp4b.htr: Gives domain and system name, may allow an attacker to brute force for access. Also will allow an NT4 user to change his password regardless of the 'user cannot change password' security policy. http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0407. http://www.securityfocus.com/bid/4236. http://www.securityfocus.com/bid/2110. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0407
++ //admin/aindex.htm: FlexWATCH firmware 2.2 is vulnerable to authentication bypass by prepending an extra /'s. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2006-3604
++ /c32web.exe/ChangeAdminPassword: This CGI may contain a backdoor and may allow attackers to change the Cart32 admin password. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2000-0429
++ /reademail.pl: @Mail WebMail 3.52 contains an SQL injection that allows attacker to read any email message for any address registered in the system. Example to append to reademail.pl: ?id=666&folder=qwer'%20or%20EmailDatabase_v.Account='victim@atmail.com&print=1. See: OSVDB-2948
++ /iissamples/exair/search/query.asp: Scripts within the Exair package on IIS 4 can be used for a DoS against the server. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0449
++ /Sources/: This might be interesting: may be YaBB.
++ /adsamples/config/site.csc: Contains SQL username/password. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-1520
++ /clocktower/: Microsoft Site Server sample files may have SQL injection. See: https://github.com/sullo/advisory-archives/blob/master/RFP2201.txt
++ /market/: Microsoft Site Server sample files may have SQL injection. See: https://github.com/sullo/advisory-archives/blob/master/RFP2201.txt
++ /mspress30/: Microsoft Site Server sample files may have SQL injection. See: https://github.com/sullo/advisory-archives/blob/master/RFP2201.txt
++ /scripts/cphost.dll: cphost.dll may have a DoS and a traversal issue. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-1769
++ /vc30/: Microsoft Site Server sample files may have SQL injection. See: https://github.com/sullo/advisory-archives/blob/master/RFP2201.txt
++ /get_od_toc.pl?Profile=: WebTrends get_od_toc.pl may be vulnerable to a path disclosure error if this file is reloaded multiple times. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0596
++ /Gozila.cgi: Linksys BEF Series routers are vulnerable to multiple DoS attacks in Gozila.cgi. See: https://seclists.org/fulldisclosure/2004/Jun/49
++ /oscommerce/default.php: This might be interesting: has been seen in web logs from an unknown scanner.
++ /yabbse/Sources/Packages.php: This might be interesting: has been seen in web logs from an unknown scanner.
++ /dc/auth_data/auth_user_file.txt: The DCShop installation allows credit card numbers to be viewed remotely. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0821 https://packetstormsecurity.com/files/32406/xmas.txt.html
++ /dc/orders/orders.txt: The DCShop installation allows credit card numbers to be viewed remotely. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0821 https://packetstormsecurity.com/files/32406/xmas.txt.html
++ /cgi-bin/hpnst.exe?c=p+i=SrvSystemInfo.html: HP Instant TopTools GoAhead WebServer hpnst.exe may be vulnerable to a DoS. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-0169
++ /applist.asp: Citrix server may allow remote users to view applications installed without authenticating. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0502
++ /launch.asp?NFuse_Application=LookOut&NFuse_MIMEExtension=.ica: Citrix server may reveal sensitive information by accessing the 'advanced' tab on the login screen. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0301
++ /_layouts/alllibs.htm: Microsoft SharePoint Portal and Team Services vulnerable to NT or NTLM authentication bypass on Win2000 SP4 using IE 6.x. See: https://seclists.org/bugtraq/2003/Nov/226
++ /_layouts/settings.htm: Microsoft SharePoint Portal and Team Services vulnerable to NT or NTLM authentication bypass on Win2000 SP4 using IE 6.x. See: https://seclists.org/bugtraq/2003/Nov/226
++ /_layouts/userinfo.htm: Microsoft SharePoint Portal and Team Services vulnerable to NT or NTLM authentication bypass on Win2000 SP4 using IE 6.x. See: https://seclists.org/bugtraq/2003/Nov/226
++ /stronghold-info: Redhat Stronghold from versions 2.3 up to 3.0 discloses sensitive information. This gives information on configuration. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0868
++ /stronghold-status: Redhat Stronghold from versions 2.3 up to 3.0 discloses sensitive information. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0868
++ /iissamples/exair/howitworks/Code.asp: Scripts within the Exair package on IIS 4 can be used for a DoS against the server. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0449
++ /iissamples/exair/howitworks/Codebrw1.asp: This is a default IIS script/file which should be removed, it may allow a DoS against the server. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0449 https://docs.microsoft.com/en-us/security-updates/securitybulletins/2099/MS99-013
++ /globals.jsa: Oracle globals.jsa file. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0562
++ /..%252f..%252f..%252f..%252f..%252f../windows/repair/sam: BadBlue server is vulnerable to multiple remote exploits. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0325 https://securiteam.com/exploits/5HP0M2A60G/
++ /..%252f..%252f..%252f..%252f..%252f../winnt/repair/sam: BadBlue server is vulnerable to multiple remote exploits. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0325 https://securiteam.com/exploits/5HP0M2A60G/
++ /..%252f..%252f..%252f..%252f..%252f../winnt/repair/sam._: BadBlue server is vulnerable to multiple remote exploits. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0325 https://securiteam.com/exploits/5HP0M2A60G/
++ /..%255c..%255c..%255c..%255c..%255c../windows/repair/sam: BadBlue server is vulnerable to multiple remote exploits. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0325 https://securiteam.com/exploits/5HP0M2A60G/
++ /..%255c..%255c..%255c..%255c..%255c../winnt/repair/sam: BadBlue server is vulnerable to multiple remote exploits. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0325 https://securiteam.com/exploits/5HP0M2A60G/
++ /..%255c..%255c..%255c..%255c..%255c../winnt/repair/sam._: BadBlue server is vulnerable to multiple remote exploits. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0325 https://securiteam.com/exploits/5HP0M2A60G/
++ /cqresource/: CRX WebDAV upload.
++ /CHANGELOG.txt: Version number implies that there is a SQL Injection in Drupal 7, which can be used for authentication bypass (Drupalgeddon). See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-3704 https://www.sektioneins.de/advisories/advisory-012014-drupal-pre-auth-sql-injection-vulnerability.html
++ /~ftp/: Allowed to browse ftp user's home directory. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-1013
++ /wp-content/plugins/gravityforms/change_log.txt: Gravity forms is installed. Based on the version number in the changelog, it is vulnerable to an authenticated SQL injection. https://wpvulndb.com/vulnerabilities/7849.
++ /wordpress/wp-content/plugins/gravityforms/change_log.txt: Gravity forms is installed. Based on the version number in the changelog, it is vulnerable to an authenticated SQL injection. https://wpvulndb.com/vulnerabilities/7849.
++ /wls-wsat/CoordinatorPortType: Oracle WebLogic Server may be vulnerable to remote takeover. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-10271
++ /wls-wsat/RegistrationPortTypeRPC: Oracle WebLogic Server may be vulnerable to remote takeover. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-10271
++ /wls-wsat/ParticipantPortType: Oracle WebLogic Server may be vulnerable to remote takeover. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-10271
++ /wls-wsat/RegistrationRequesterPortType: Oracle WebLogic Server may be vulnerable to remote takeover. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-10271
++ /wls-wsat/CoordinatorPortType11: Oracle WebLogic Server may be vulnerable to remote takeover. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-10271
++ /wls-wsat/RegistrationPortTypeRPC11: Oracle WebLogic Server may be vulnerable to remote takeover. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-10271
++ /wls-wsat/ParticipantPortType11: Oracle WebLogic Server may be vulnerable to remote takeover. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-10271
++ /_async/AsyncResponseServiceJms?WSDL: BEA WebLogic may allow remote takeover. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-2725 CNVD-C-2019-48814
++ /JAMonAdmin.jsp: JAMon - Java Application Monitor Admin interface identified. Versions 2.7 and earlier contain XSS vulnerabilities. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-6235
