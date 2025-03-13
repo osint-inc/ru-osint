@@ -1,0 +1,24 @@
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ /%2e/: Weblogic allows source code or directory listing, upgrade to v6.0 SP1 or higher. http://www.securityfocus.com/bid/2513. See: http://www.securityfocus.com/bid/2513
++ /phpinfo.php?VARIABLE=<script>alert('Vulnerable')</script>: Retrieved x-powered-by header: PHP/5.6.40.
++ /admin.php?en_log_id=0&action=config: EasyNews version 4.3 allows remote admin access. This PHP file should be protected. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2006-5412
++ /admin.php?en_log_id=0&action=users: EasyNews version 4.3 allows remote admin access. This PHP file should be protected. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2006-5412
++ /dc/auth_data/auth_user_file.txt: The DCShop installation allows credit card numbers to be viewed remotely. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0821 https://packetstormsecurity.com/files/32406/xmas.txt.html
++ /dc/orders/orders.txt: The DCShop installation allows credit card numbers to be viewed remotely. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0821 https://packetstormsecurity.com/files/32406/xmas.txt.html
++ /cgi-bin/hpnst.exe?c=p+i=SrvSystemInfo.html: HP Instant TopTools GoAhead WebServer hpnst.exe may be vulnerable to a DoS. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-0169
++ /applist.asp: Citrix server may allow remote users to view applications installed without authenticating. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0502
++ /launch.asp?NFuse_Application=LookOut&NFuse_MIMEExtension=.ica: Citrix server may reveal sensitive information by accessing the 'advanced' tab on the login screen. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0301
++ /_layouts/alllibs.htm: Microsoft SharePoint Portal and Team Services vulnerable to NT or NTLM authentication bypass on Win2000 SP4 using IE 6.x. See: https://seclists.org/bugtraq/2003/Nov/226
++ /_layouts/settings.htm: Microsoft SharePoint Portal and Team Services vulnerable to NT or NTLM authentication bypass on Win2000 SP4 using IE 6.x. See: https://seclists.org/bugtraq/2003/Nov/226
++ /_layouts/userinfo.htm: Microsoft SharePoint Portal and Team Services vulnerable to NT or NTLM authentication bypass on Win2000 SP4 using IE 6.x. See: https://seclists.org/bugtraq/2003/Nov/226
++ /stronghold-info: Redhat Stronghold from versions 2.3 up to 3.0 discloses sensitive information. This gives information on configuration. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0868
++ /stronghold-status: Redhat Stronghold from versions 2.3 up to 3.0 discloses sensitive information. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0868
++ /iissamples/exair/howitworks/Code.asp: Scripts within the Exair package on IIS 4 can be used for a DoS against the server. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0449
++ /iissamples/exair/howitworks/Codebrw1.asp: This is a default IIS script/file which should be removed, it may allow a DoS against the server. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0449 https://docs.microsoft.com/en-us/security-updates/securitybulletins/2099/MS99-013
++ /globals.jsa: Oracle globals.jsa file. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0562
++ /..%252f..%252f..%252f..%252f..%252f../windows/repair/sam: BadBlue server is vulnerable to multiple remote exploits. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0325 https://securiteam.com/exploits/5HP0M2A60G/
++ /..%252f..%252f..%252f..%252f..%252f../winnt/repair/sam: BadBlue server is vulnerable to multiple remote exploits. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0325 https://securiteam.com/exploits/5HP0M2A60G/
++ /..%252f..%252f..%252f..%252f..%252f../winnt/repair/sam._: BadBlue server is vulnerable to multiple remote exploits. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0325 https://securiteam.com/exploits/5HP0M2A60G/
++ /..%255c..%255c..%255c..%255c..%255c../windows/repair/sam: BadBlue server is vulnerable to multiple remote exploits. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0325 https://securiteam.com/exploits/5HP0M2A60G/
++ /..%255c..%255c..%255c..%255c..%255c../winnt/repair/sam: BadBlue server is vulnerable to multiple remote exploits. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0325 https://securiteam.com/exploits/5HP0M2A60G/
++ /..%255c..%255c..%255c..%255c..%255c../winnt/repair/sam._: BadBlue server is vulnerable to multiple remote exploits. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0325 https://securiteam.com/exploits/5HP0M2A60G/
