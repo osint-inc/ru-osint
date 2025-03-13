@@ -1,0 +1,4 @@
+       -ssl               Force ssl mode on port
+                               4     Injection (XSS/Script/HTML)
+                               9     SQL Injection
+                               c     Remote Source Inclusion

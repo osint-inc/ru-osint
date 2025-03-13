@@ -1,0 +1,13 @@
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ /%2e/: Weblogic allows source code or directory listing, upgrade to v6.0 SP1 or higher. http://www.securityfocus.com/bid/2513. See: http://www.securityfocus.com/bid/2513
++ /phpinfo.php?VARIABLE=<script>alert('Vulnerable')</script>: Retrieved x-powered-by header: PHP/5.6.40.
++ /admin.php?en_log_id=0&action=config: EasyNews version 4.3 allows remote admin access. This PHP file should be protected. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2006-5412
++ /admin.php?en_log_id=0&action=users: EasyNews version 4.3 allows remote admin access. This PHP file should be protected. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2006-5412
++ /wls-wsat/CoordinatorPortType: Oracle WebLogic Server may be vulnerable to remote takeover. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-10271
++ /wls-wsat/RegistrationPortTypeRPC: Oracle WebLogic Server may be vulnerable to remote takeover. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-10271
++ /wls-wsat/ParticipantPortType: Oracle WebLogic Server may be vulnerable to remote takeover. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-10271
++ /wls-wsat/RegistrationRequesterPortType: Oracle WebLogic Server may be vulnerable to remote takeover. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-10271
++ /wls-wsat/CoordinatorPortType11: Oracle WebLogic Server may be vulnerable to remote takeover. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-10271
++ /wls-wsat/RegistrationPortTypeRPC11: Oracle WebLogic Server may be vulnerable to remote takeover. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-10271
++ /wls-wsat/ParticipantPortType11: Oracle WebLogic Server may be vulnerable to remote takeover. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-10271
++ /_async/AsyncResponseServiceJms?WSDL: BEA WebLogic may allow remote takeover. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-2725 CNVD-C-2019-48814
