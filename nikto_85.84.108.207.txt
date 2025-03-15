@@ -1,0 +1,2 @@
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ /: The web server may reveal its internal or real IP in the Location header via a request to with HTTP/1.0. The value is "192.168.1.150". See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2000-0649
