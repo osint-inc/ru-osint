@@ -1,0 +1,4 @@
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ /: Server may leak inodes via ETags, header found with file /, inode: 5c2, size: 5b5a27cce1cef, mtime: gzip. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-1418
++ /index: Apache mod_negotiation is enabled with MultiViews, which allows attackers to easily brute force file names. The following alternatives for 'index' were found: index.html. See: http://www.wisec.it/sectou.php?id=4698ebdc59d15,https://exchange.xforce.ibmcloud.com/vulnerabilities/8275
++ /wordpress/wp-content/plugins/hello.php: The WordPress hello.php plugin reveals a file system path. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2005-4463
